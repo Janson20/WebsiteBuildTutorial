@@ -32,7 +32,11 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
+  - vendor
   - LICENSE
+  - README.md
+  - "*.gem"
+  - "*.gemspec"
 
 # Kramdown配置
 kramdown:
