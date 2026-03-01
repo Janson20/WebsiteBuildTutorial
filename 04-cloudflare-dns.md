@@ -1,3 +1,10 @@
+---
+layout: default
+title: Cloudflare DNS配置指南
+nav_order: 4
+parent: 教程
+---
+
 # Cloudflare DNS配置指南
 
 本教程介绍如何使用Cloudflare配置DNS解析、CDN加速和安全防护。

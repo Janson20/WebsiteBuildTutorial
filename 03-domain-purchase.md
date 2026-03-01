@@ -1,3 +1,10 @@
+---
+layout: default
+title: 域名购买指南
+nav_order: 3
+parent: 教程
+---
+
 # 域名购买指南
 
 本教程介绍如何选择、购买和管理域名。

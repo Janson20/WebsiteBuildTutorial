@@ -1,3 +1,10 @@
+---
+layout: default
+title: 代码编写指南
+nav_order: 1
+parent: 教程
+---
+
 # 代码编写指南
 
 本教程介绍网站项目从零开始创建、开发规范和最佳实践。

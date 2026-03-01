@@ -1,0 +1,51 @@
+title: 网站搭建完整教程
+description: 从零开始搭建网站的完整指南，涵盖代码编写、服务器部署、域名购买和DNS配置。
+author: WebDoc
+lang: zh-CN
+
+# 站点设置
+baseurl: "" # 子目录路径，如 /WebDoc
+url: "" # 网站URL
+
+# 构建设置
+markdown: kramdown
+highlighter: rouge
+
+# 主题（GitHub Pages支持的主题）
+theme: jekyll-theme-cayman
+
+# 导航
+header_pages:
+  - 01-code-development.md
+  - 02-server-deployment.md
+  - 03-domain-purchase.md
+  - 04-cloudflare-dns.md
+  - 05-complete-workflow.md
+
+# 插件（GitHub Pages支持）
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# 排除文件
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - LICENSE
+
+# Kramdown配置
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# 默认值
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
