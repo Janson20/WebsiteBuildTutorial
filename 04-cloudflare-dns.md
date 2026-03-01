@@ -513,4 +513,4 @@ sudo systemd-resolve --flush-caches
 
 ## 下一步
 
-DNS配置完成后，继续阅读 [05-complete-workflow.md](./05-complete-workflow.md) 查看完整的实战案例。
+DNS配置完成后，继续阅读 [完整实战案例]({{ site.baseurl }}/05-complete-workflow) 查看完整的实战案例。

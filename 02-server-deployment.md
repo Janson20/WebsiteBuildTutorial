@@ -454,4 +454,4 @@ echo '/swapfile none swap sw 0 0' >> /etc/fstab
 
 ## 下一步
 
-服务器部署完成后，继续阅读 [03-domain-purchase.md](./03-domain-purchase.md) 学习域名购买。
+服务器部署完成后，继续阅读 [域名购买指南]({{ site.baseurl }}/03-domain-purchase) 学习域名购买。

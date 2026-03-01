@@ -290,4 +290,4 @@ api.example.com    ← 子域名
 
 ## 下一步
 
-域名购买完成后，继续阅读 [04-cloudflare-dns.md](./04-cloudflare-dns.md) 学习DNS配置和CDN加速。
+域名购买完成后，继续阅读 [Cloudflare DNS配置]({{ site.baseurl }}/04-cloudflare-dns) 学习DNS配置和CDN加速。

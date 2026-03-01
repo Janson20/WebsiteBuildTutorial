@@ -361,4 +361,4 @@ export default defineConfig({
 
 ## 下一步
 
-项目开发完成后，继续阅读 [02-server-deployment.md](./02-server-deployment.md) 学习服务器部署。
+项目开发完成后，继续阅读 [服务器部署指南]({{ site.baseurl }}/02-server-deployment) 学习服务器部署。
