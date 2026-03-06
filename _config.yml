@@ -19,7 +19,9 @@ theme: jekyll-theme-cayman
 
 # 导航
 header_pages:
-  - 01-code-development.md
+  - 01a-react-website.md
+  - 01b-vue-website.md
+  - 01c-html-website.md
   - 02-server-deployment.md
   - 03-domain-purchase.md
   - 04-cloudflare-dns.md

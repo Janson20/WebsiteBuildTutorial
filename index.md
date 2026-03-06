@@ -11,7 +11,10 @@ nav_order: 0
 ## 教程目录
 
 ### 第一部分：代码开发
-- [代码编写指南]({{ site.baseurl }}/01-code-development) - 代码编写最佳实践与项目结构
+
+- [React 网站开发]({{ site.baseurl }}/01a-react-website) - 使用React构建现代化网站
+- [Vue 网站开发]({{ site.baseurl }}/01b-vue-website) - 使用Vue 3构建现代化网站
+- [HTML/CSS/JS 网站开发]({{ site.baseurl }}/01c-html-website) - 使用原生技术构建网站
 
 ### 第二部分：服务器部署
 - [服务器部署指南]({{ site.baseurl }}/02-server-deployment) - 服务器选择、配置与项目部署
