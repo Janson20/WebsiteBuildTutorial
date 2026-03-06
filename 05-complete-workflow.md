@@ -541,4 +541,4 @@ tar -czf techblog-backup-$(date +%Y%m%d).tar.gz /var/www/techblog
 6. ✅ 启用了HTTPS
 7. ✅ 验证网站正常访问
 
-网站已成功上线，后续可以进行性能优化、SEO优化和内容更新。
+网站已成功上线，后续可以进行[性能优化]({{ site.baseurl }}/06a-performance-optimization)、[SEO优化]({{ site.baseurl }}/06b-seo-optimization)和[内容更新]({{ site.baseurl }}/06c-content-update)。

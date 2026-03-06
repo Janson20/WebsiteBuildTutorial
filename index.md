@@ -28,6 +28,11 @@ nav_order: 0
 ### 第五部分：完整流程
 - [完整实战案例]({{ site.baseurl }}/05-complete-workflow) - 从零到上线的完整实战案例
 
+### 第六部分：拓展内容
+- [网站性能优化]({{ site.baseurl }}/06a-performance-optimization) - 提升网站加载速度和用户体验
+- [SEO优化指南]({{ site.baseurl }}/06b-seo-optimization) - 搜索引擎优化提高排名
+- [内容更新指南]({{ site.baseurl }}/06c-content-update) - 网站内容维护和更新策略
+
 ## 教程特色
 
 - **循序渐进**：从基础到进阶，适合不同水平的学习者
@@ -70,6 +75,7 @@ nav_order: 0
 ## 更新日志
 
 - 2026-03-01：教程初始版本发布
+- 2026-03-07：添加拓展内容
 
 ## 贡献
 

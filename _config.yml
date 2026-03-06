@@ -26,6 +26,9 @@ header_pages:
   - 03-domain-purchase.md
   - 04-cloudflare-dns.md
   - 05-complete-workflow.md
+  - 06a-performance-optimization.md
+  - 06b-seo-optimization.md
+  - 06c-content-update.md
 
 # 插件（GitHub Pages支持）
 plugins:
